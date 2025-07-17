@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\unity dz\\Tank\\tank\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\unity dz\\Tank\\tank\\Assets\\Scripts\\Tank\\TankController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Tank\\TankController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\unity dz\\Tank\\tank\\Assets\\Scripts\\Bullets\\Projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Bullets\\Projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\unity dz\\Tank\\tank\\Assets\\Scripts\\Interface\\CarnageIndicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Interface\\CarnageIndicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\unity dz\\Tank\\tank\\Assets\\Scripts\\Commons\\GameObjectPool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Commons\\GameObjectPool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,6 +39,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TankController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\unity dz\\Tank\\tank\\Assets\\Scripts\\Tank\\TankController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tank\\TankController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\unity dz\\Tank\\tank\\Assets\\Scripts\\Tank\\TankController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tank\\TankController.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAvwJAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T17:21:23.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\unity dz\\Tank\\tank\\Assets\\Scripts\\Bullets\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullets\\Projectile.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\unity dz\\Tank\\tank\\Assets\\Scripts\\Bullets\\Projectile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullets\\Projectile.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAvwDIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T17:19:35.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarnageIndicator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\unity dz\\Tank\\tank\\Assets\\Scripts\\Interface\\CarnageIndicator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interface\\CarnageIndicator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\unity dz\\Tank\\tank\\Assets\\Scripts\\Interface\\CarnageIndicator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interface\\CarnageIndicator.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAACAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T16:53:46.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "GameObjectPool.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\unity dz\\Tank\\tank\\Assets\\Scripts\\Commons\\GameObjectPool.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Commons\\GameObjectPool.cs",
@@ -34,12 +84,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Commons\\GameObjectPool.cs",
               "ViewState": "AQIAAFUAAAAAAAAAAAAvwGsAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T15:13:53.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-26T15:13:53.137Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "TankGameInstaller.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\unity dz\\Tank\\tank\\Assets\\Scripts\\TankGameInstaller.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TankGameInstaller.cs",
@@ -47,12 +96,11 @@
               "RelativeToolTip": "Assets\\Scripts\\TankGameInstaller.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T14:50:20.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-26T14:50:20.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "CustomInputHandler.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\unity dz\\Tank\\tank\\Assets\\Samples\\Cinemachine\\3.1.4\\Input System Samples\\Split Screen Multiplayer\\CustomInputHandler.cs",
               "RelativeDocumentMoniker": "Assets\\Samples\\Cinemachine\\3.1.4\\Input System Samples\\Split Screen Multiplayer\\CustomInputHandler.cs",
